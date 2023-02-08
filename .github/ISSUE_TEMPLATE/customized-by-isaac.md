@@ -2,7 +2,7 @@
 name: Customized by Isaac
 about: Add member to class.
 title: ''
-labels: ''
+labels: bug, help wanted
 assignees: ''
 
 ---
