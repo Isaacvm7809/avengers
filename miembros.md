@@ -6,7 +6,7 @@
 <!-- * Capitán Marvel -->
 * Falcon
 * Hank Pym
-* Hawkeye
+<!-- * Hawkeye -->
 * Hulk
 * Iron Man
 * Luke Cage
